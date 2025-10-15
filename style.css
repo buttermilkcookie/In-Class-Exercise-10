@@ -39,7 +39,7 @@ header {
 }
 
 .sticky {
-  width: 15vw;
+  width: 80vw;
   position: sticky;
   top: 30;
 }
