@@ -23,6 +23,9 @@ header {
   top: 0px;
   left: 0px;
   padding: 12px;
+  letter-spacing: 2px;
+  z-index: 5;
+   
 }
 
 .site-title {
