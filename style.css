@@ -25,6 +25,43 @@ header {
   padding: 12px;
 }
 
+.site-title {
+  font-weight: 1000;
+  float: left;
+}
+
+.hero {
+  width: 50%;
+  height: auto;
+}
+
+.sticky {
+  width: 15vw;
+  position: sticky;
+  top: 30;
+}
+
+.ben {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+main {
+  position: relative;
+  top: 50px;
+  width: 500px;
+  margin: 0 100px 50px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin-bottom: 5px;
+}
+
 .story {
   margin-top: 5px;
 }
